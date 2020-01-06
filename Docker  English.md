@@ -48,7 +48,7 @@ It normally runs as a daemon in the background when started.
 
 
 
-3.   carries  out 
+3.   carry  out 
 
 **[carry y out](http://dict.youdao.com/w/eng/carry_y_out/#keyfrom=dict.phrase.wordgroup)** 贯彻 ; 进行 ; 实现 ; 完成
 
@@ -61,6 +61,49 @@ It normally runs as a daemon in the background when started.
 
 
 The Docker client (`docker`) is the primary way that many Docker users interact with Docker. When you use commands such as `docker run`, the client sends these commands to `dockerd`, which carries them out. The `docker` command uses the Docker API. The Docker client can communicate with more than one daemon.
+
+
+
+### **同近义词**
+
+- vt. 执行，实行；贯彻；实现；完成
+- **[perform](http://dict.youdao.com/w/eng/perform/#keyfrom=dict.basic.syno) ,** **[accomplish](http://dict.youdao.com/w/eng/accomplish/#keyfrom=dict.basic.syno) ,** **[implement](http://dict.youdao.com/w/eng/implement/#keyfrom=dict.basic.syno) ,** **[fulfill](http://dict.youdao.com/w/eng/fulfill/#keyfrom=dict.basic.syno) ,** **[come true](http://dict.youdao.com/w/eng/come_true/#keyfrom=dict.basic.syno)**
+
+
+
+- I myself will firmly carry out this plan. 
+
+  我本人将坚决执行这个计划。
+
+  《新英汉大辞典》
+
+- They will carry out this experimentation, regardless of what happen. 
+
+  不管发生什么，他们都将完成这个实验。
+
+  [edu.sina.com.cn](http://edu.sina.com.cn/en/2002-04-01/2379.html)
+
+- They should now carry out these threats. 
+
+  现在，他们应该执行这些威胁了。
+
+  [article.yeeyan.org](http://article.yeeyan.org/view/Chiuvon/224671)
+
+- PHRASAL VERB If you **carry out** a threat, task, or instruction, you do it or act according to it. 实行
+
+  例：
+
+  The Social Democrats could still carry out their threat to leave the government.
+
+  社会民主党人仍然可能实现其脱离政府的威胁。
+
+  例：
+
+  Police say they believe the attacks were carried out by nationalists.
+
+  警方称他们认为这些袭击行为是民族主义分子发动的。
+
+### **同近义词**
 
 
 
