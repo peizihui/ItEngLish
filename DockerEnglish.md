@@ -48,6 +48,24 @@ It normally runs as a daemon in the background when started.
 
 
 
+- It normally runs as a daemon in the background when started. 
+
+  启动后，它通常作为一个守护进程在后台运行。
+
+  [www.ibm.com](http://www.ibm.com/developerworks/cn/aix/library/au-gnuvpe/index.html)
+
+- This daemon broadcasts the information for the local machine and collects the broadcast datafrom all the other machines. 
+
+  这个守护进程为本地计算机广播信息，并收集来自所有其他计算机的广播数据。
+
+  [www.ibm.com](http://www.ibm.com/developerworks/cn/aix/library/au-satslowsys.html)
+
+- In this case, the status of the application server needs to be checked to ensure they are all upand running and have registered with the location service daemon. 
+
+  在此情况下，需要检查应用程序服务器的状态，以确保它们全都已启动和运行，并且已向位置服务守护进程注册。
+
+
+
 3.   carry  out 
 
 **[carry y out](http://dict.youdao.com/w/eng/carry_y_out/#keyfrom=dict.phrase.wordgroup)** 贯彻 ; 进行 ; 实现 ; 完成
